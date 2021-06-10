@@ -1,4 +1,4 @@
-package AddBinary;
+package easy.AddBinary;
 
 class Solution {
     public String addBinary(String a, String b) {

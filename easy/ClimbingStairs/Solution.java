@@ -1,4 +1,4 @@
-package ClimbingStairs;
+package easy.ClimbingStairs;
 
 class Solution {
     // public int climbStairs(int n) {
@@ -40,7 +40,7 @@ class Solution {
         int[] dp = new int[n + 1];
         dp[1] = 1;
         dp[2] = 2;
-        // indexがn-1とn-2を足した値が入るnに入る
+        // indexがn-1とn-2を足した値が�?�るnに入�?
         for (int i = 3; i <= n; i++) {
             dp[i] = dp[i - 1] + dp[i - 2];
         }

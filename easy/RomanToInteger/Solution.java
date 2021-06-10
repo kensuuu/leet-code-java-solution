@@ -1,4 +1,4 @@
-package RomanToInteger;
+package easy.RomanToInteger;
 
 import java.util.HashMap;
 import java.util.Map;

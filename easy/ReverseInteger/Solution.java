@@ -1,4 +1,4 @@
-package ReverseInteger;
+package easy.ReverseInteger;
 
 class Solution {
     public int reverse(int x) {

@@ -1,4 +1,4 @@
-package LengthOfLastWord;
+package easy.LengthOfLastWord;
 
 class Solution {
     public int lengthOfLastWord(String s) {

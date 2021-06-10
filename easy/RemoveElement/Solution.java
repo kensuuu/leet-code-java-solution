@@ -1,4 +1,4 @@
-package RemoveElement;
+package easy.RemoveElement;
 
 class Solution {
     public int removeElement(int[] nums, int val) {

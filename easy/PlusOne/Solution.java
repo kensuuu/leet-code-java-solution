@@ -1,4 +1,4 @@
-package PlusOne;
+package easy.PlusOne;
 
 class Solution {
     public int[] plusOne(int[] digits) {

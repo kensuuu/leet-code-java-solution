@@ -1,4 +1,4 @@
-package MaximumSubarray;
+package easy.MaximumSubarray;
 
 class Solution {
     public int maxSubArray(int[] nums) {

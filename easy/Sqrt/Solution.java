@@ -1,4 +1,4 @@
-package Sqrt;
+package easy.Sqrt;
 
 class Solution {
     public int mySqrt(int x) {

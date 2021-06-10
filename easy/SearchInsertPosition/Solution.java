@@ -1,4 +1,4 @@
-package SearchInsertPosition;
+package easy.SearchInsertPosition;
 
 class Solution {
     public int searchInsert(int[] nums, int target) {

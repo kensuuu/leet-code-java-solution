@@ -1,4 +1,4 @@
-package ImplementStrStr;
+package easy.ImplementStrStr;
 
 class Solution {
     public int strStr(String haystack, String needle) {
