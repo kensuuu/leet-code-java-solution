@@ -16,3 +16,4 @@
 13. Length of Last Word
 14. Plus One
 15. Add Binary
+16. Sqrt(x)
